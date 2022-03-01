@@ -1,12 +1,15 @@
 const mongoose = require('mongoose');
 
 const connectDB = () => {
-    const uri = 'mongodb+srv://IdanYosef:Idany158@cluster0.zyy7x.mongodb.net/UsersDB?retryWrites=true&w=majority';
-    const options = {
+  try {
+    mongoose.connect(process.env.MONGODB_URI || 'mongodb://localhost/UsersDB', {
         useNewUrlParser: true,
         useUnifiedTopology: true
-    }
-    mongoose.connect(uri,options);
+      }, () =>
+      console.log("connected"));
+  } catch (error) {
+    console.log("could not connect");
+  }
 }
 
 const db = mongoose.connection;
