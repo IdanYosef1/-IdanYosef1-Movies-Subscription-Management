@@ -10,7 +10,7 @@ Each user has certain permissions that allow him to view, create, edit and / or 
 
 ## Technologies
 
-*	Frontend: HTML, CSS, Javascript, React, Redux, Context.
+*	Frontend: HTML, CSS, Bootstrap v5.0, Javascript, React, Redux, Context.
 *	BackEnd: Nodejs, Express, Mongoose, cors.
 *	Database: MongoDB.
 
