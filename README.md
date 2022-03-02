@@ -30,4 +30,4 @@ Each user has certain permissions that allow him to view, create, edit and / or 
 
 * Username: admin
 
-* password: 123456
+* Password: 123456
