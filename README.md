@@ -8,6 +8,10 @@ and type in the username he is received from the admin with a password he create
 Only admin has permission to view, create, edit and delete users.
 Each user has certain permissions that allow him to view, create, edit and / or delete data.
 
+## Live demo
+
+https://cinema-management.netlify.app/
+
 ## Technologies
 
 *	Frontend: HTML, CSS, Bootstrap v5.0, Javascript, React, Redux, Context.
