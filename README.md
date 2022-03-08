@@ -1,6 +1,8 @@
 
 # Movies & Subscriptions Management
 
+![image](https://user-images.githubusercontent.com/93710408/157208516-89070fc9-aa0d-4e4b-aae9-7399e7079a41.png)
+
 Movie and subscription Management Site with permissions for each user.
 The admin can create users with a username and permissions but without a password.
 In order for the user to log in to the site he has to go to the create account page 
@@ -35,7 +37,3 @@ https://cinema-management.netlify.app/
 * Username: admin
 
 * Password: 123456
-
-
-![image](https://user-images.githubusercontent.com/93710408/157208516-89070fc9-aa0d-4e4b-aae9-7399e7079a41.png)
-
