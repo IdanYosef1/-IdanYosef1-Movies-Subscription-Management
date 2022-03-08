@@ -35,3 +35,7 @@ https://cinema-management.netlify.app/
 * Username: admin
 
 * Password: 123456
+
+
+![image](https://user-images.githubusercontent.com/93710408/157208516-89070fc9-aa0d-4e4b-aae9-7399e7079a41.png)
+
