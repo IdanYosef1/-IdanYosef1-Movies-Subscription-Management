@@ -12,7 +12,7 @@ Each user has certain permissions that allow him to view, create, edit and / or 
 
 ## Live demo
 
-https://cinema-management.netlify.app/
+https://cinema-management.onrender.com/
 
 ## Technologies
 
